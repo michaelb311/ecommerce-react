@@ -19,14 +19,13 @@ function App() {
         </header>
         <main>
           <Route path='/product/:id' component={ProductScreen}></Route>
-          <Route path='/' component={HomeScreen}exact={true}></Route>
+          <Route path='/' component={HomeScreen} exact={true}></Route>
         </main>
         <footer className="row center">
             All rights reserved
         </footer>
       </div>
     </BrowserRouter>
-    
   );
 }
 
