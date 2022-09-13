@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/michaelb311/ecommerce-react#readme",
   "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-plugin-react": "^7.31.8",
     "nodemon": "^2.0.19"
   }
 }
