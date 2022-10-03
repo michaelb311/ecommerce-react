@@ -160,6 +160,7 @@ img.large{
   padding: 1rem;
   border: 0.1rem solid transparent;
   border-radius: .5rem;
+  color: #a02020;
 }
 .alert-info{
   color: #2020a0;
